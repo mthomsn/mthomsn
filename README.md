@@ -1,5 +1,4 @@
 ## Hello! I'm Matt Thomsen 
-I'm currently a student at the University of Texas Coding Bootcamp. <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/>
@@ -9,10 +8,11 @@ I'm currently a student at the University of Texas Coding Bootcamp. <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40px"/> --> <br>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40px"/> -->
 
 
 
+I'm currently a student at the University of Texas Coding Bootcamp. <br>
 ### How to Reach me: <br>
 Email: [matthewthomsen99@gmail.com](mailto:matthewthomsen99@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/matt-thomsen-2814b3254/)
