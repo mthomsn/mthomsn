@@ -11,7 +11,6 @@
 
 
 
-I'm currently a student at the University of Texas Coding Bootcamp. <br>
 ### How to Reach me: <br>
 Email: [matthewthomsen99@gmail.com](mailto:matthewthomsen99@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/matt-thomsen-2814b3254/)
