@@ -1,4 +1,4 @@
-### <samp>&gt; Hello there, I'm <a href="">Matt Thomsen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hello there, I'm <a href="https://mthomsn.github.io/react-portfolio/">Matt Thomsen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <!--
 <a href="https://www.linkedin.com/in/matt-thomsen-2814b3254/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://mthomsn.github.io/react-portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
